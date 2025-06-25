@@ -1,15 +1,15 @@
 # Hi there! 👋 I'm Peeyush
 
 ## 🚀 About Me
-- 🎓 3rd Year Computer Science student at Walchand College of Engineering, Sangli
-- 🔭 Currently building AI-powered mobile and web apps solving real-life problems
-- 🌱 Focused on improving **MERN stack**, **AI/ML integrations**, and **Cloud with AWS**
-- 👀 Exploring **n8n workflows** and **AI agents** to automate tasks
+- 🎓 3rd Year Computer Science student at **Walchand College of Engineering, Sangli**
+- 🔭 Building AI-powered mobile & web apps to solve real-life problems
+- 🌱 Focused on mastering **MERN stack**, **AI/ML**, **Cloud (AWS)** & exploring **n8n workflows**
+- 👀 Currently learning to build AI Agents & automation tools
 - 👯 Open to collaborations in **AI, Automation, Health-tech, and Productivity Tools**
 - 💬 Ask me about **React, Node.js, AI integrations**
 - 🏆 Finalist at ADCET Hackathon 2025 for an AI Accessibility App
 - 📫 Reach me at: **peeyush1404@gmail.com**
-- ⚡ Fun fact: I love building practical tools that simplify life!
+- ⚡ Fun fact: I love turning real-world problems into practical digital solutions!
 
 ---
 
@@ -52,20 +52,26 @@ Mobile app that simplifies medical report interpretation using AI, OCR, and intu
 **Tech Stack:** React, Node.js  
 A modern, multi-functional website offering useful daily tools and AI-powered features.
 
-### 🌟 [AI Accessibility App - Hackathon Finalist](https://github.com/Peeyush-1404/Drishti_Ai)
+### 🌟 [Serenity - Meditation & Relaxation App](https://github.com/Peeyush-1404/Serenity)
+**Tech Stack:** React Native, Expo  
+A beautifully designed mobile app providing guided meditation  for basic stress relief and identifying stress levels accurately.
+
+### 🌟 [Drishti AI - Hackathon Finalist](https://github.com/Peeyush-1404/Drishti_Ai)
 **Tech Stack:** React Native, Gemini AI, Flask  
-Real-time image captioning & speech output app to assist the visually impaired in regional languages.
+Real-time image captioning & speech output app assisting visually impaired individuals in regional languages.
 
 ---
-
 
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/peeyush1404)
-
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:peeyush1404@gmail.com)
 
 ---
 
 ## 💡 Quote
 > "Strive for progress, not perfection."
+
+---
+
+
