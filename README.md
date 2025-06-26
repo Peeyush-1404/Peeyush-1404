@@ -52,7 +52,7 @@ Mobile app that simplifies medical report interpretation using AI, OCR, and intu
 **Tech Stack:** React, Node.js  
 A modern, multi-functional website offering useful daily tools and AI-powered features.
 
-### 🌟 [Serenity - Meditation & Relaxation App](https://github.com/jagtapshweta/serinity)
+### 🌟 [Serenity - Meditation & Relaxation App](https://github.com/Peeyush-1404/serinity)
 **Tech Stack:** React Native, Expo  
 A beautifully designed mobile app providing guided meditation  for basic stress relief and identifying stress levels accurately.
 
